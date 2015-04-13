@@ -1,0 +1,25 @@
+<resources>
+
+    <style name="Card_text_log_in_title">
+    <item name="android:layout_width">match_parent</item>
+    <item name="android:layout_height">match_parent</item>
+    <item name="android:layout_marginTop">3dp</item>
+    <item name="android:textSize">20sp</item>
+    <item name="android:textColor">#000</item>
+    <item name="android:text">Log In</item>
+    <item name="android:textStyle">bold</item>
+    </style>
+
+        <style name="Card_text_login">
+            <item name="android:layout_width">match_parent</item>
+            <item name="android:layout_height">match_parent</item>
+            <item name="android:layout_marginTop">50dp</item>
+            <item name="android:textSize">12sp</item>
+            <item name="android:textColor">#000</item>
+            <item name="android:text">Would you like to log in?</item>
+            <item name="android:textStyle">bold</item>
+
+        </style>
+
+
+</resources>
